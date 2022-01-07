@@ -62,7 +62,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'django_29.urls'
+ROOT_URLCONF = 'starbucks.urls'
 
 TEMPLATES = [
     {
